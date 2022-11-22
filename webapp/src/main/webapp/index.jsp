@@ -3,7 +3,6 @@
     <h1>Testing full pipeline </h1>
     <h1>A mock template for webapp</h1>
     <p>Please fill in this form to create an account.</p>
-    <p><?php echo "hostname is:".gethostname(); ?></p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
